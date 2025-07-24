@@ -41,12 +41,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 
+<br>
+
 ## 💻 Projeto
 O projeto <strong>Patins Snitap</strong> é uma Landing Page comercial de patins, o 6º projeto desenvolvido durante a MBA Full Stack da [Rocketseat](https://www.rocketseat.com.br/) em parceria com a [Sirius Education](https://landing.sirius.education/home/). <br>
 
 Neste projeto foram desenvolvidas soluções em <strong>HTML</strong>, seguindo boas práticas na construção semântica de seus marcadores para a correta interpretação da sua estrutura por diferentes navegadores e também leitores de tela. Alguns atributos - como o <code>lang</code> e <code>title</code> - foram utilizados de forma estratégica visando oferecer uma boa experiência aos usuários de leitores de tela.
 
 Em seu <strong>CSS</strong> foram aplicadas soluções modernas, como o [CSS Nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting) e os layouts Grid e Flex, além do uso de variáveis, transições, funções (como <code>calc</code>, <code>clamp</code>, entre outras) e at-rules (como <code>@import</code>, <code>@media</code> e <code>@keyframes</code>) - oferecendo, assim, responsividade e animações visuais à experiência navegacional. Também foram utilizados novos recursos da tecnologia CSS, como <code>animation-range</code> e <code>animation-timeline</code> Ademais foi aplicada a técnica do [Inverted Triangle CSS (ITCSS)](https://willianjusten.com.br/organizando-seu-css-com-itcss) para a arquitetura de seus diretórios.
+
+<br>
+
+> [Navegue pela aplicação aqui](https://rkt-ffs-07-patins-snitap.vercel.app/)
+
+<br>
 
 ## 🔖 Layout
 Desenvolvido por [Ilana Mallak](https://www.linkedin.com/in/ilanamallak/), Product Designer na Rocketseat, você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1379866810042169871). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
